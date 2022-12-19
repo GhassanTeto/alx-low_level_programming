@@ -2,7 +2,8 @@
 #include <string.h>
 
 /**
- *
+ * puts_half -> puts half
+ * @str: string parameter
  */
 void puts_half(char *str)
 {
