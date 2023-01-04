@@ -14,8 +14,8 @@ int _evaluate(int i, int n)
 		return (_evaluate(i + 1, n));
 	else if (i * i == n)
 		return (1);
-	else
-		return (-1);
+	return (-1);
+	return (-1);
 }
 
 /**
